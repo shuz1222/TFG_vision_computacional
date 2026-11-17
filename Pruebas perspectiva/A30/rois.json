@@ -1,0 +1,61 @@
+{
+ "referencia": "A30_montaje.png",
+ "distancia_camara_m": 2.0,
+ "regiones": {
+  "LVDT": [
+   2287,
+   1506,
+   54,
+   57
+  ],
+  "Centro": [
+   2424,
+   1511,
+   49,
+   58
+  ],
+  "Cuerpo": [
+   2264,
+   1093,
+   48,
+   60
+  ],
+  "Fijo": [
+   667,
+   854,
+   50,
+   53
+  ]
+ },
+ "factor_escala": 0.5400232662540068,
+ "escala_usada": "alto",
+ "lado_target_px": [
+  48.19,
+  52.59
+ ],
+ "lado_target_mm": 28.4,
+ "escalas_regiones": {
+  "LVDT": 0.5400232662540068,
+  "Centro": 0.5606985355746376,
+  "Cuerpo": 0.5610630510134239
+ },
+ "lados_px": {
+  "LVDT": [
+   48.19,
+   52.59
+  ],
+  "Centro": [
+   45.47,
+   50.65
+  ],
+  "Cuerpo": [
+   42.12,
+   50.62
+  ]
+ },
+ "metodo_escala": {
+  "LVDT": "centros",
+  "Centro": "centros",
+  "Cuerpo": "centros"
+ }
+}

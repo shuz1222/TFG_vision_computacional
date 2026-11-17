@@ -1,0 +1,61 @@
+{
+ "referencia": "A15_montaje.png",
+ "distancia_camara_m": 2.0,
+ "regiones": {
+  "LVDT": [
+   2168,
+   1505,
+   56,
+   55
+  ],
+  "Centro": [
+   2312,
+   1510,
+   56,
+   55
+  ],
+  "Cuerpo": [
+   2163,
+   1100,
+   51,
+   56
+  ],
+  "Fijo": [
+   1121,
+   878,
+   54,
+   52
+  ]
+ },
+ "factor_escala": 0.5347804290790156,
+ "escala_usada": "alto",
+ "lado_target_px": [
+  51.75,
+  53.11
+ ],
+ "lado_target_mm": 28.4,
+ "escalas_regiones": {
+  "LVDT": 0.5347804290790156,
+  "Centro": 0.5403837453761609,
+  "Cuerpo": 0.5516826931168627
+ },
+ "lados_px": {
+  "LVDT": [
+   51.75,
+   53.11
+  ],
+  "Centro": [
+   50.8,
+   52.56
+  ],
+  "Cuerpo": [
+   47.82,
+   51.48
+  ]
+ },
+ "metodo_escala": {
+  "LVDT": "bordes",
+  "Centro": "bordes",
+  "Cuerpo": "bordes"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "referencia": "D300_montaje.png",
+ "distancia_camara_m": 3.0,
+ "regiones": {
+  "LVDT": [
+   2591,
+   1496,
+   39,
+   37
+  ],
+  "Centro": [
+   2693,
+   1500,
+   38,
+   38
+  ],
+  "Cuerpo": [
+   2593,
+   1215,
+   37,
+   38
+  ],
+  "Fijo": [
+   2011,
+   981,
+   44,
+   43
+  ]
+ },
+ "factor_escala": 0.7829792308542924,
+ "escala_usada": "alto",
+ "lado_target_px": [
+  35.71,
+  36.27
+ ],
+ "lado_target_mm": 28.4,
+ "escalas_regiones": {
+  "LVDT": 0.7829792308542924,
+  "Centro": 0.7924128925846989,
+  "Cuerpo": 0.7960486431696423
+ },
+ "lados_px": {
+  "LVDT": [
+   35.71,
+   36.27
+  ],
+  "Centro": [
+   35.51,
+   35.84
+  ],
+  "Cuerpo": [
+   34.43,
+   35.68
+  ]
+ },
+ "metodo_escala": {
+  "LVDT": "bordes",
+  "Centro": "bordes",
+  "Cuerpo": "bordes"
+ }
+}

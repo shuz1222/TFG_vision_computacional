@@ -1,0 +1,61 @@
+{
+ "referencia": "D200_montaje.png",
+ "distancia_camara_m": 2.0,
+ "regiones": {
+  "LVDT": [
+   2536,
+   1508,
+   55,
+   56
+  ],
+  "Centro": [
+   2686,
+   1515,
+   55,
+   54
+  ],
+  "Cuerpo": [
+   2539,
+   1101,
+   54,
+   54
+  ],
+  "Fijo": [
+   1904,
+   900,
+   51,
+   48
+  ]
+ },
+ "factor_escala": 0.52907520718724,
+ "escala_usada": "alto",
+ "lado_target_px": [
+  53.16,
+  53.68
+ ],
+ "lado_target_mm": 28.4,
+ "escalas_regiones": {
+  "LVDT": 0.52907520718724,
+  "Centro": 0.5362990299372278,
+  "Cuerpo": 0.5458097864942901
+ },
+ "lados_px": {
+  "LVDT": [
+   53.16,
+   53.68
+  ],
+  "Centro": [
+   52.63,
+   52.96
+  ],
+  "Cuerpo": [
+   50.92,
+   52.03
+  ]
+ },
+ "metodo_escala": {
+  "LVDT": "bordes",
+  "Centro": "bordes",
+  "Cuerpo": "bordes"
+ }
+}

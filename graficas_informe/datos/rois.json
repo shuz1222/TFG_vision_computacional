@@ -1,0 +1,682 @@
+{
+ "Ruido 0,5 m": {
+  "LVDT": {
+   "roi": [
+    1938,
+    1688,
+    178,
+    178
+   ],
+   "lado_px": [
+    170,
+    170
+   ],
+   "escala": 0.16705882352941176,
+   "coincidencia": 0.856
+  },
+  "Centro": {
+   "roi": [
+    2424,
+    1701,
+    181,
+    179
+   ],
+   "lado_px": [
+    173,
+    171
+   ],
+   "escala": 0.16511627906976745,
+   "coincidencia": 0.844
+  },
+  "Cuerpo": {
+   "roi": [
+    1983,
+    454,
+    165,
+    166
+   ],
+   "lado_px": [
+    157,
+    158
+   ],
+   "escala": 0.18031746031746032,
+   "coincidencia": 0.886
+  },
+  "Repisa": {
+   "roi": [
+    1633,
+    988,
+    62,
+    63
+   ],
+   "lado_px": [
+    54,
+    55
+   ],
+   "escala": 1.2165137614678898,
+   "coincidencia": 0.853
+  },
+  "Cajas": {
+   "roi": [
+    1234,
+    957,
+    310,
+    100
+   ],
+   "escala": null,
+   "coincidencia": 0.886
+  }
+ },
+ "Escalones 0,5 m R1": {
+  "LVDT": {
+   "roi": [
+    1938,
+    1687,
+    178,
+    178
+   ],
+   "lado_px": [
+    170,
+    170
+   ],
+   "escala": 0.16705882352941176,
+   "coincidencia": 0.857
+  },
+  "Centro": {
+   "roi": [
+    2424,
+    1701,
+    182,
+    178
+   ],
+   "lado_px": [
+    174,
+    170
+   ],
+   "escala": 0.16511627906976745,
+   "coincidencia": 0.846
+  },
+  "Cuerpo": {
+   "roi": [
+    1983,
+    452,
+    166,
+    166
+   ],
+   "lado_px": [
+    158,
+    158
+   ],
+   "escala": 0.17974683544303796,
+   "coincidencia": 0.884
+  },
+  "Repisa": {
+   "roi": [
+    1633,
+    987,
+    62,
+    62
+   ],
+   "lado_px": [
+    54,
+    54
+   ],
+   "escala": 1.2277777777777776,
+   "coincidencia": 0.857
+  },
+  "Cajas": {
+   "roi": [
+    1238,
+    957,
+    302,
+    98
+   ],
+   "escala": null,
+   "coincidencia": 0.885
+  }
+ },
+ "Escalones 0,5 m R2": {
+  "LVDT": {
+   "roi": [
+    1938,
+    1687,
+    178,
+    178
+   ],
+   "lado_px": [
+    170,
+    170
+   ],
+   "escala": 0.16705882352941176,
+   "coincidencia": 0.86
+  },
+  "Centro": {
+   "roi": [
+    2425,
+    1701,
+    180,
+    178
+   ],
+   "lado_px": [
+    172,
+    170
+   ],
+   "escala": 0.16608187134502922,
+   "coincidencia": 0.823
+  },
+  "Cuerpo": {
+   "roi": [
+    1982,
+    452,
+    167,
+    166
+   ],
+   "lado_px": [
+    159,
+    158
+   ],
+   "escala": 0.17917981072555203,
+   "coincidencia": 0.883
+  },
+  "Repisa": {
+   "roi": [
+    1633,
+    987,
+    63,
+    62
+   ],
+   "lado_px": [
+    55,
+    54
+   ],
+   "escala": 1.2165137614678898,
+   "coincidencia": 0.861
+  },
+  "Cajas": {
+   "roi": [
+    1238,
+    957,
+    302,
+    98
+   ],
+   "escala": null,
+   "coincidencia": 0.892
+  }
+ },
+ "Escalones 0,5 m R3": {
+  "LVDT": {
+   "roi": [
+    1939,
+    1687,
+    177,
+    178
+   ],
+   "lado_px": [
+    169,
+    170
+   ],
+   "escala": 0.16755162241887905,
+   "coincidencia": 0.859
+  },
+  "Centro": {
+   "roi": [
+    2425,
+    1701,
+    180,
+    178
+   ],
+   "lado_px": [
+    172,
+    170
+   ],
+   "escala": 0.16608187134502922,
+   "coincidencia": 0.827
+  },
+  "Cuerpo": {
+   "roi": [
+    1982,
+    452,
+    167,
+    165
+   ],
+   "lado_px": [
+    159,
+    157
+   ],
+   "escala": 0.17974683544303796,
+   "coincidencia": 0.881
+  },
+  "Repisa": {
+   "roi": [
+    1633,
+    987,
+    63,
+    62
+   ],
+   "lado_px": [
+    55,
+    54
+   ],
+   "escala": 1.2165137614678898,
+   "coincidencia": 0.86
+  },
+  "Cajas": {
+   "roi": [
+    1239,
+    957,
+    302,
+    98
+   ],
+   "escala": null,
+   "coincidencia": 0.887
+  }
+ },
+ "Escalones 1 m R1": {
+  "LVDT": {
+   "roi": [
+    2155,
+    1670,
+    92,
+    91
+   ],
+   "lado_px": [
+    84,
+    83
+   ],
+   "escala": 0.3401197604790419,
+   "coincidencia": 0.839
+  },
+  "Centro": {
+   "roi": [
+    2393,
+    1677,
+    92,
+    92
+   ],
+   "lado_px": [
+    84,
+    84
+   ],
+   "escala": 0.33809523809523806,
+   "coincidencia": 0.803
+  },
+  "Cuerpo": {
+   "roi": [
+    2167,
+    1043,
+    88,
+    88
+   ],
+   "lado_px": [
+    80,
+    80
+   ],
+   "escala": 0.355,
+   "coincidencia": 0.851
+  },
+  "Repisa": {
+   "roi": [
+    1641,
+    1076,
+    56,
+    56
+   ],
+   "lado_px": [
+    48,
+    48
+   ],
+   "escala": 1.3812499999999999,
+   "coincidencia": 0.875
+  },
+  "Cajas": {
+   "roi": [
+    1296,
+    1051,
+    271,
+    88
+   ],
+   "escala": null,
+   "coincidencia": 0.899
+  }
+ },
+ "Escalones 1 m R2": {
+  "LVDT": {
+   "roi": [
+    2154,
+    1668,
+    94,
+    94
+   ],
+   "lado_px": [
+    86,
+    86
+   ],
+   "escala": 0.3302325581395349,
+   "coincidencia": 0.833
+  },
+  "Centro": {
+   "roi": [
+    2394,
+    1676,
+    91,
+    93
+   ],
+   "lado_px": [
+    83,
+    85
+   ],
+   "escala": 0.33809523809523806,
+   "coincidencia": 0.799
+  },
+  "Cuerpo": {
+   "roi": [
+    2166,
+    1042,
+    90,
+    88
+   ],
+   "lado_px": [
+    82,
+    80
+   ],
+   "escala": 0.35061728395061725,
+   "coincidencia": 0.848
+  },
+  "Repisa": {
+   "roi": [
+    1641,
+    1076,
+    56,
+    55
+   ],
+   "lado_px": [
+    48,
+    47
+   ],
+   "escala": 1.3957894736842105,
+   "coincidencia": 0.871
+  },
+  "Cajas": {
+   "roi": [
+    1296,
+    1050,
+    271,
+    88
+   ],
+   "escala": null,
+   "coincidencia": 0.919
+  }
+ },
+ "Escalones 1 m R3": {
+  "LVDT": {
+   "roi": [
+    2155,
+    1668,
+    92,
+    93
+   ],
+   "lado_px": [
+    84,
+    85
+   ],
+   "escala": 0.336094674556213,
+   "coincidencia": 0.838
+  },
+  "Centro": {
+   "roi": [
+    2393,
+    1676,
+    92,
+    92
+   ],
+   "lado_px": [
+    84,
+    84
+   ],
+   "escala": 0.33809523809523806,
+   "coincidencia": 0.805
+  },
+  "Cuerpo": {
+   "roi": [
+    2166,
+    1042,
+    89,
+    88
+   ],
+   "lado_px": [
+    81,
+    80
+   ],
+   "escala": 0.3527950310559006,
+   "coincidencia": 0.854
+  },
+  "Repisa": {
+   "roi": [
+    1641,
+    1076,
+    56,
+    55
+   ],
+   "lado_px": [
+    48,
+    47
+   ],
+   "escala": 1.3957894736842105,
+   "coincidencia": 0.872
+  },
+  "Cajas": {
+   "roi": [
+    1296,
+    1050,
+    271,
+    88
+   ],
+   "escala": null,
+   "coincidencia": 0.915
+  }
+ },
+ "Ruido 1 m": {
+  "LVDT": {
+   "roi": [
+    2154,
+    1669,
+    94,
+    93
+   ],
+   "lado_px": [
+    86,
+    85
+   ],
+   "escala": 0.33216374269005844,
+   "coincidencia": 0.831
+  },
+  "Centro": {
+   "roi": [
+    2393,
+    1677,
+    92,
+    91
+   ],
+   "lado_px": [
+    84,
+    83
+   ],
+   "escala": 0.3401197604790419,
+   "coincidencia": 0.804
+  },
+  "Cuerpo": {
+   "roi": [
+    2166,
+    1042,
+    90,
+    89
+   ],
+   "lado_px": [
+    82,
+    81
+   ],
+   "escala": 0.34846625766871164,
+   "coincidencia": 0.848
+  },
+  "Repisa": {
+   "roi": [
+    1641,
+    1076,
+    56,
+    55
+   ],
+   "lado_px": [
+    48,
+    47
+   ],
+   "escala": 1.3957894736842105,
+   "coincidencia": 0.873
+  },
+  "Cajas": {
+   "roi": [
+    1296,
+    1050,
+    271,
+    88
+   ],
+   "escala": null,
+   "coincidencia": 0.91
+  }
+ },
+ "Ruido 0,5 m, enfoque autom\u00e1tico": {
+  "LVDT": {
+   "roi": [
+    1939,
+    1687,
+    177,
+    178
+   ],
+   "lado_px": [
+    169,
+    170
+   ],
+   "escala": 0.16755162241887905,
+   "coincidencia": 0.857
+  },
+  "Centro": {
+   "roi": [
+    2424,
+    1700,
+    181,
+    179
+   ],
+   "lado_px": [
+    173,
+    171
+   ],
+   "escala": 0.16511627906976745,
+   "coincidencia": 0.845
+  },
+  "Cuerpo": {
+   "roi": [
+    1983,
+    452,
+    166,
+    166
+   ],
+   "lado_px": [
+    158,
+    158
+   ],
+   "escala": 0.17974683544303796,
+   "coincidencia": 0.885
+  },
+  "Repisa": {
+   "roi": [
+    1633,
+    987,
+    63,
+    62
+   ],
+   "lado_px": [
+    55,
+    54
+   ],
+   "escala": 1.2165137614678898,
+   "coincidencia": 0.863
+  },
+  "Cajas": {
+   "roi": [
+    1234,
+    955,
+    310,
+    100
+   ],
+   "escala": null,
+   "coincidencia": 0.882
+  }
+ },
+ "Ruido 1 m, enfoque autom\u00e1tico": {
+  "LVDT": {
+   "roi": [
+    2155,
+    1670,
+    92,
+    91
+   ],
+   "lado_px": [
+    84,
+    83
+   ],
+   "escala": 0.3401197604790419,
+   "coincidencia": 0.831
+  },
+  "Centro": {
+   "roi": [
+    2394,
+    1677,
+    91,
+    91
+   ],
+   "lado_px": [
+    83,
+    83
+   ],
+   "escala": 0.34216867469879514,
+   "coincidencia": 0.806
+  },
+  "Cuerpo": {
+   "roi": [
+    2167,
+    1043,
+    88,
+    88
+   ],
+   "lado_px": [
+    80,
+    80
+   ],
+   "escala": 0.355,
+   "coincidencia": 0.851
+  },
+  "Repisa": {
+   "roi": [
+    1641,
+    1076,
+    56,
+    55
+   ],
+   "lado_px": [
+    48,
+    47
+   ],
+   "escala": 1.3957894736842105,
+   "coincidencia": 0.877
+  },
+  "Cajas": {
+   "roi": [
+    1296,
+    1051,
+    271,
+    88
+   ],
+   "escala": null,
+   "coincidencia": 0.905
+  }
+ }
+}

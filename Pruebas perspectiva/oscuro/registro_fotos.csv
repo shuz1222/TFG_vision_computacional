@@ -1,0 +1,26 @@
+archivo,carpeta,hora,shutter_us,ganancia,awb_rojo,awb_azul,nota
+oscuro_montaje.png,oscuro,18:25:24,369746,1.0,2.322125,1.880498,montaje
+oscuro_ruido_01.png,ruido,18:25:32,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_02.png,ruido,18:25:37,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_03.png,ruido,18:25:42,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_04.png,ruido,18:25:48,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_05.png,ruido,18:25:53,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_06.png,ruido,18:25:58,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_07.png,ruido,18:26:03,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_08.png,ruido,18:26:08,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_09.png,ruido,18:26:13,369746,1.0,2.322125,1.880498,ruido
+oscuro_ruido_10.png,ruido,18:26:18,369746,1.0,2.322125,1.880498,ruido
+oscuro_R1_P1_000kg_a.png,R1,18:26:33,369746,1.0,2.322125,1.880498,R1 P1
+oscuro_R1_P1_000kg_b.png,R1,18:26:36,369746,1.0,2.322125,1.880498,R1 P1
+oscuro_R1_P2_050kg_a.png,R1,18:27:05,369746,1.0,2.322125,1.880498,R1 P2
+oscuro_R1_P2_050kg_b.png,R1,18:27:08,369746,1.0,2.322125,1.880498,R1 P2
+oscuro_R1_P3_100kg_a.png,R1,18:27:29,369746,1.0,2.322125,1.880498,R1 P3
+oscuro_R1_P3_100kg_b.png,R1,18:27:32,369746,1.0,2.322125,1.880498,R1 P3
+oscuro_R1_P4_150kg_a.png,R1,18:27:59,369746,1.0,2.322125,1.880498,R1 P4
+oscuro_R1_P4_150kg_b.png,R1,18:28:02,369746,1.0,2.322125,1.880498,R1 P4
+oscuro_R1_P5_200kg_a.png,R1,18:28:23,369746,1.0,2.322125,1.880498,R1 P5
+oscuro_R1_P5_200kg_b.png,R1,18:28:26,369746,1.0,2.322125,1.880498,R1 P5
+oscuro_R1_P6_250kg_a.png,R1,18:28:54,369746,1.0,2.322125,1.880498,R1 P6
+oscuro_R1_P6_250kg_b.png,R1,18:28:57,369746,1.0,2.322125,1.880498,R1 P6
+oscuro_R1_P7_000kg_a.png,R1,18:29:23,369746,1.0,2.322125,1.880498,R1 P7
+oscuro_R1_P7_000kg_b.png,R1,18:29:26,369746,1.0,2.322125,1.880498,R1 P7

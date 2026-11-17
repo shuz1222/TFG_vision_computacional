@@ -1,0 +1,61 @@
+{
+ "referencia": "D100_montaje.png",
+ "distancia_camara_m": 1.0,
+ "regiones": {
+  "LVDT": [
+   2341,
+   1548,
+   104,
+   104
+  ],
+  "Centro": [
+   2629,
+   1559,
+   108,
+   100
+  ],
+  "Cuerpo": [
+   2345,
+   770,
+   103,
+   101
+  ],
+  "Fijo": [
+   1651,
+   752,
+   67,
+   61
+  ]
+ },
+ "factor_escala": 0.27215512125123703,
+ "escala_usada": "alto",
+ "lado_target_px": [
+  104.11,
+  104.35
+ ],
+ "lado_target_mm": 28.4,
+ "metodo_escala": {
+  "LVDT": "bordes",
+  "Centro": "bordes",
+  "Cuerpo": "bordes"
+ },
+ "escalas_regiones": {
+  "LVDT": 0.27215512125123703,
+  "Centro": 0.2779299124325258,
+  "Cuerpo": 0.2954285797467795
+ },
+ "lados_px": {
+  "LVDT": [
+   104.11,
+   104.35
+  ],
+  "Centro": [
+   102.28,
+   102.18
+  ],
+  "Cuerpo": [
+   97.84,
+   96.13
+  ]
+ }
+}

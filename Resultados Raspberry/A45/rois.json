@@ -1,0 +1,61 @@
+{
+ "referencia": "A45_montaje.png",
+ "distancia_camara_m": 2.0,
+ "regiones": {
+  "LVDT": [
+   2130,
+   1511,
+   45,
+   59
+  ],
+  "Centro": [
+   2247,
+   1516,
+   39,
+   54
+  ],
+  "Cuerpo": [
+   2091,
+   1097,
+   39,
+   61
+  ],
+  "Fijo": [
+   17,
+   849,
+   47,
+   52
+  ]
+ },
+ "factor_escala": 0.5257914811815919,
+ "escala_usada": "alto",
+ "lado_target_px": [
+  41.27,
+  54.01
+ ],
+ "lado_target_mm": 28.4,
+ "escalas_regiones": {
+  "LVDT": 0.5257914811815919,
+  "Centro": 0.5428385315803191,
+  "Cuerpo": 0.5434928232404493
+ },
+ "lados_px": {
+  "LVDT": [
+   41.27,
+   54.01
+  ],
+  "Centro": [
+   39.08,
+   52.32
+  ],
+  "Cuerpo": [
+   34.19,
+   52.25
+  ]
+ },
+ "metodo_escala": {
+  "LVDT": "bordes",
+  "Centro": "bordes",
+  "Cuerpo": "bordes"
+ }
+}

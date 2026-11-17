@@ -1,0 +1,61 @@
+{
+ "referencia": "D400_montaje.png",
+ "distancia_camara_m": 4.0,
+ "regiones": {
+  "LVDT": [
+   2507,
+   1448,
+   30,
+   31
+  ],
+  "Centro": [
+   2583,
+   1452,
+   29,
+   29
+  ],
+  "Cuerpo": [
+   2509,
+   1241,
+   28,
+   28
+  ],
+  "Fijo": [
+   2017,
+   1015,
+   38,
+   37
+  ]
+ },
+ "factor_escala": 1.0728717489237947,
+ "escala_usada": "alto",
+ "lado_target_px": [
+  26.92,
+  26.47
+ ],
+ "lado_target_mm": 28.4,
+ "escalas_regiones": {
+  "LVDT": 1.0728717489237947,
+  "Centro": 1.0875295112519203,
+  "Cuerpo": 1.1090687196770892
+ },
+ "lados_px": {
+  "LVDT": [
+   26.92,
+   26.47
+  ],
+  "Centro": [
+   26.49,
+   26.11
+  ],
+  "Cuerpo": [
+   25.66,
+   25.61
+  ]
+ },
+ "metodo_escala": {
+  "LVDT": "centros",
+  "Centro": "centros",
+  "Cuerpo": "centros"
+ }
+}

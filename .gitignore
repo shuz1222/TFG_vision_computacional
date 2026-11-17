@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Salidas que generan los scripts
+graficas_informe/control/
+Resultados visión 26-10/
+control_rois.jpg
+
+# Fotos de los ensayos: no se suben, salvo el par de ejemplo
+*.jpg
+*.png
+!Pruebas 10-11/D100/R1/D100_R1_P1_000kg_a.png
+!Pruebas 10-11/D100/R1/D100_R1_P6_250kg_a.png
+
+# Archivos temporales de Excel y del sistema
+~$*
+Thumbs.db
+desktop.ini

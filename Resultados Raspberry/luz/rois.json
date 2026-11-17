@@ -1,0 +1,61 @@
+{
+ "referencia": "luz_montaje.png",
+ "distancia_camara_m": 1.0,
+ "regiones": {
+  "LVDT": [
+   2452,
+   1560,
+   105,
+   99
+  ],
+  "Centro": [
+   2726,
+   1571,
+   105,
+   96
+  ],
+  "Cuerpo": [
+   2464,
+   822,
+   96,
+   97
+  ],
+  "Fijo": [
+   1749,
+   774,
+   63,
+   59
+  ]
+ },
+ "factor_escala": 0.2854458036801187,
+ "escala_usada": "alto",
+ "lado_target_px": [
+  98.89,
+  99.49
+ ],
+ "lado_target_mm": 28.4,
+ "escalas_regiones": {
+  "LVDT": 0.2854458036801187,
+  "Centro": 0.2904343159052714,
+  "Cuerpo": 0.30696135044335027
+ },
+ "lados_px": {
+  "LVDT": [
+   98.89,
+   99.49
+  ],
+  "Centro": [
+   96.45,
+   97.78
+  ],
+  "Cuerpo": [
+   92.7,
+   92.52
+  ]
+ },
+ "metodo_escala": {
+  "LVDT": "bordes",
+  "Centro": "bordes",
+  "Cuerpo": "bordes"
+ }
+}

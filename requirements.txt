@@ -1,0 +1,5 @@
+# Versiones con las que se probó en la computadora (Python 3.13).
+# En la Raspberry Pi se usan los paquetes del sistema (apt): python3-opencv y python3-matplotlib.
+opencv-python>=4.8
+numpy>=1.26
+matplotlib>=3.8
